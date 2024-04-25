@@ -1,0 +1,157 @@
+17. Which of the following is not the type of queue?
+a) Priority queue
+b) Circular queue
+c) Single ended queue
+d) Ordinary queue
+
+c) Single ended queue
+
+Which data structure is used for implementing recursion?
+a) Stack
+b) Queue
+c) List
+d) Array
+
+a) Stack
+
+5. Which of the following is not the application of stack?
+a) Data Transfer between two asynchronous process
+b) Compiler Syntax Analyzer
+c) Tracking of local variables at run time
+d) A parentheses balancing program
+
+a) Data Transfer between two asynchronous process
+
+6. Which data structure is needed to convert infix notation to postfix notation?
+a) Tree
+b) Branch
+c) Stack
+d) Queue
+
+
+c) Stack
+
+
+
+
+10. The data structure required for Breadth First Traversal on a graph is?
+a) Array
+b) Stack
+c) Tree
+d) Queue
+
+d) Queue
+
+32. What is the advantage of a hash table as a data structure?
+a) easy to implement
+b) faster access of data
+c) exhibit good locality of reference
+d) very efficient for less number of entries
+
+b) faster access of data
+
+
+37. In simple chaining, what data structure is appropriate?
+a) Doubly linked list
+b) Circular linked list
+c) Singly linked list
+d) Binary trees
+
+
+
+a) Doubly linked list
+
+1. Which allows you to create a derived class that inherits properties from more than one base
+class?
+A. Multilevel inheritance
+B. Multiple inheritance
+C. Hybrid Inheritance
+D. Hierarchical Inheritance
+2. Which feature in OOP allows reusing code?
+A) Polymorphism
+B) Inheritance
+C) Encapsulation
+D) Data hiding
+3. A function that changes the state of the cout object is called a(n) _____
+A. member B. adjuster
+C. manipulator D. operator
+4. What does C++ append to the end of a string literal constant?
+A. a space
+B. a number sign (#)
+C. an asterisk (*)
+D. a null character
+5. An array element is accessed using
+A. a first-in-first-out approach
+B. the dot operator
+C. a member name
+D. an index number
+6. To hide a data member from the program, you must declare the data member in the _____
+section of the class
+A. concealed B. confidential
+C. hidden D. private
+E. restricted
+7. External documentation includes
+A. a printout of the program's code
+B. flowcharts
+C. IPO charts
+D. pseudo code
+E. All of the above
+8. The function whose prototype is void getData(Item *thing); receives
+A. a pointer to a structure
+B. a reference to a structure
+C. a copy of a structure
+D. nothing
+9. Null character needs a space of
+A. zero bytes
+B. one byte
+C. three bytes
+D. four bytes
+
+1. B
+2. B
+3. C
+4. D
+5. D
+6. D
+7. A
+8. A
+9. B             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
